@@ -1,0 +1,118 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{cheng2016harten}
+J.~Cheng, Harten-{L}ax-van {L}eer-contact ({HLLC}) approximation {R}iemann
+  solver with elastic waves for one-dimensional elastic-plastic problems,
+  Applied Mathematics and Mechanics 37~(11) (2016) 1517--1538.
+
+\bibitem{toro1994restoration}
+E.~F. Toro, M.~Spruce, W.~Speares, Restoration of the contact surface in the
+  hll-riemann solver, Shock waves 4~(1) (1994) 25--34.
+
+\bibitem{wilkins1963calculation}
+M.~L. Wilkins, Calculation of elastic-plastic flow, Tech. rep., California Univ
+  Livermore Radiation Lab (1963).
+
+\bibitem{trangenstein1991higher}
+J.~A. Trangenstein, P.~Colella, A higher-order {G}odunov method for modeling
+  finite deformation in elastic-plastic solids, Communications on Pure and
+  Applied mathematics 44~(1) (1991) 41--100.
+
+\bibitem{miller2001high}
+G.~Miller, P.~Colella, A high-order {E}ulerian {G}odunov method for
+  elastic--plastic flow in solids, Journal of computational physics 167~(1)
+  (2001) 131--176.
+
+\bibitem{barton2009exact}
+P.~T. Barton, D.~Drikakis, E.~Romenski, V.~A. Titarev, Exact and approximate
+  solutions of {R}iemann problems in non-linear elasticity, Journal of
+  Computational Physics 228~(18) (2009) 7046--7068.
+
+\bibitem{liu2008modified}
+T.~Liu, W.~Xie, B.~Khoo, The modified ghost fluid method for coupling of fluid
+  and structure constituted with hydro-elasto-plastic equation of state, SIAM
+  Journal on Scientific Computing 30~(3) (2008) 1105--1130.
+
+\bibitem{burton2013cell}
+D.~Burton, T.~Carney, N.~Morgan, S.~Sambasivan, M.~Shashkov, A cell-centered
+  {L}agrangian {G}odunov-like method for solid dynamics, Computers \& Fluids 83
+  (2013) 33--47.
+
+\bibitem{kluth2010discretization}
+G.~Kluth, B.~Despr{\'e}s, Discretization of hyperelasticity on unstructured
+  mesh with a cell-centered {L}agrangian scheme, Journal of Computational
+  Physics 229~(24) (2010) 9092--9118.
+
+\bibitem{maire2013nominally}
+P.-H. Maire, R.~Abgrall, J.~Breil, R.~Loub{\`e}Re, B.~Rebourcet, A nominally
+  second-order cell-centered {L}agrangian scheme for simulating
+  elastic--plastic flows on two-dimensional unstructured grids, Journal of
+  Computational Physics 235 (2013) 626--665.
+
+\bibitem{cheng2017third}
+J.-B. Cheng, W.~Huang, S.~Jiang, B.~Tian, A third-order moving mesh
+  cell-centered scheme for one-dimensional elastic-plastic flows, Journal of
+  Computational Physics 349 (2017) 137--153.
+
+\bibitem{gavrilyuk2008modelling}
+S.~L. Gavrilyuk, N.~Favrie, R.~Saurel, Modelling wave dynamics of compressible
+  elastic materials, Journal of computational physics 227~(5) (2008)
+  2941--2969.
+
+\bibitem{despres2007geometrical}
+B.~Despres, A geometrical approach to nonconservative shocks and elastoplastic
+  shocks, Archive for Rational Mechanics and Analysis 186~(2) (2007) 275--308.
+
+\bibitem{cheng2015high}
+J.-B. Cheng, E.~F. Toro, S.~Jiang, M.~Yu, W.~Tang, A high-order cell-centered
+  {L}agrangian scheme for one-dimensional elastic--plastic problems, Computers
+  \& Fluids 122 (2015) 136--152.
+
+\bibitem{toro2013riemann}
+E.~F. Toro, Riemann solvers and numerical methods for fluid dynamics: a
+  practical introduction, Springer Science \& Business Media, 2013.
+
+\bibitem{jiang1996efficient}
+G.-S. Jiang, C.-W. Shu, Efficient implementation of weighted {ENO} schemes,
+  Journal of computational physics 126~(1) (1996) 202--228.
+
+\bibitem{huang2012eulerian}
+C.-S. Huang, T.~Arbogast, J.~Qiu, An {E}ulerian--{L}agrangian {WENO} finite
+  volume scheme for advection problems, Journal of Computational Physics
+  231~(11) (2012) 4028--4052.
+
+\bibitem{dumbser2013high}
+M.~Dumbser, W.~Boscheri, High-order unstructured {L}agrangian one-step {WENO}
+  finite volume schemes for non-conservative hyperbolic systems: applications
+  to compressible multi-phase flows, Computers \& Fluids 86 (2013) 405--432.
+
+\bibitem{liu2018novel}
+S.~Liu, Y.~Shen, B.~Chen, F.~Zeng, Novel local smoothness indicators for
+  improving the third-order {WENO} scheme, International Journal for Numerical
+  Methods in Fluids 87~(2) (2018) 51--69.
+
+\bibitem{davis1988simplified}
+S.~Davis, Simplified second-order {G}odunov-type methods, SIAM Journal on
+  Scientific and Statistical Computing 9~(3) (1988) 445--473.
+
+\bibitem{shu1988efficient}
+C.-W. Shu, S.~Osher, Efficient implementation of essentially non-oscillatory
+  shock-capturing schemes, Journal of computational physics 77~(2) (1988)
+  439--471.
+
+\bibitem{maire2007cell}
+P.-H. Maire, R.~Abgrall, J.~Breil, J.~Ovadia, A cell-centered {L}agrangian
+  scheme for two-dimensional compressible flow problems, SIAM Journal on
+  Scientific Computing 29~(4) (2007) 1781--1824.
+
+\bibitem{ghaisas2016high}
+N.~S. Ghaisas, A.~Subramaniam, S.~K. Lele, High-order {E}ulerian methods for
+  elastic-plastic flow in solids and coupling with fluid flows, in: 46th AIAA
+  Fluid Dynamics Conference, 2016, p. 3350.
+
+\end{thebibliography}
